@@ -44,8 +44,8 @@ All current data shown in the interface is static demo content for concept demon
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repo-link>
-cd pocket-professor
+git clone https://github.com/Dehors777/uob-pocket-professor.git
+cd uob-pocket-professor
 ```
 
 ### 2. Install dependencies
